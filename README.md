@@ -94,12 +94,4 @@ python main.py
 - 请勿将包含真实密码的 `.env` 文件上传到 GitHub。
 - 过于频繁的发送可能会触发 Gmail 的反垃圾邮件限制，建议间隔不要太短。
 
-## 📦 推送到 GitHub
 
-如果你想将此项目推送到你的 GitHub 仓库：
-
-```bash
-git add .
-git commit -m "update: add attachment support and config guide"
-git push
-```
